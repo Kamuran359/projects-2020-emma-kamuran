@@ -1,14 +1,8 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Data Project**. The inequality in Denmark is investigated, by analyzing data from Denmark Statistics and plotting lorenz curves and calculating the guini coefficients. 
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
-
-This **loades two datasets**:
-
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
+The **results** of the project can be seen from running [data project.ipynb](data project.ipynb).
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-``pip install matplotlib-venn``
+``pip install``
