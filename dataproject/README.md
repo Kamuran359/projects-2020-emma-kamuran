@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **Data Project**. The inequality in Denmark is investigated, by analyzing data from Denmark Statistics in order to plot lorenz curves and calculate guini coefficients. 
+Our project is titled **Data Project**. The inequality in Denmark is investigated, by analyzing data from Denmark Statistics in order to plot lorenz curves and calculate guini coefficients. The project demonstrates data cleaning and data structure methods, and data analysis methods are applied.
 
 The **results** of the project can be seen from running [data project.ipynb](data project.ipynb).
 
